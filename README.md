@@ -20,7 +20,7 @@ I am a passionate Front-End Developer, driven by a curiosity for technology, and
 -
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
