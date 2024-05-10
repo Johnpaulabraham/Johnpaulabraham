@@ -28,8 +28,8 @@ I am a passionate Front-End Developer, driven by a curiosity for technology, and
   - Exploring the ins and outs of Javascript, React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Diving into Full Stack Web Development for efficient and scalable Website management.
-
+  -
+  -
  ## 🏆 Achievements
 
 - 🌟 Completed the freeCodeCamp Responsive Web Design Course with a Certifcate [freeCodeCamp](https://www.freecodecamp.org/Johnpaulabraham) - Contributed to open source projects and celebrated the spirit of collaboration.
