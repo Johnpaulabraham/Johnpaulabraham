@@ -21,7 +21,7 @@ I'm a passionate Front-End Developer, who has always been fascinated by technolo
 -
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,github,figma,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
