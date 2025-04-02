@@ -26,7 +26,7 @@ I'm a passionate Front-End Developer, who has always been fascinated by technolo
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Software Development
-  - Exploring the ins and outs of Javascript, React and Redux for dynamic front-end experiences.
+  - Exploring the ins and outs of Javascript and React for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   -
